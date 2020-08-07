@@ -1,0 +1,79 @@
+{
+  "id": "1911651",
+  "name": "YJ-Guide",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "792406",
+      "name": "exchange2-交换",
+      "font_class": "exchange2jiaohuan",
+      "unicode": "e6dd",
+      "unicode_decimal": 59101
+    },
+    {
+      "icon_id": "1630751",
+      "name": "交换",
+      "font_class": "jiaohuan",
+      "unicode": "e665",
+      "unicode_decimal": 58981
+    },
+    {
+      "icon_id": "6129129",
+      "name": "92相互交换-上下",
+      "font_class": "xianghujiaohuan-shangxia",
+      "unicode": "e781",
+      "unicode_decimal": 59265
+    },
+    {
+      "icon_id": "12686559",
+      "name": "交换",
+      "font_class": "icon_jiaohuan",
+      "unicode": "e63b",
+      "unicode_decimal": 58939
+    },
+    {
+      "icon_id": "4185995",
+      "name": "船",
+      "font_class": "chuan",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "5393532",
+      "name": "骑行",
+      "font_class": "qihang",
+      "unicode": "e719",
+      "unicode_decimal": 59161
+    },
+    {
+      "icon_id": "9499816",
+      "name": "骑行",
+      "font_class": "ziyuan",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "10268520",
+      "name": "步行",
+      "font_class": "buhang",
+      "unicode": "e675",
+      "unicode_decimal": 58997
+    },
+    {
+      "icon_id": "10268548",
+      "name": "驾车",
+      "font_class": "jiache",
+      "unicode": "e67a",
+      "unicode_decimal": 59002
+    },
+    {
+      "icon_id": "12686944",
+      "name": "交换",
+      "font_class": "icon-",
+      "unicode": "e655",
+      "unicode_decimal": 58965
+    }
+  ]
+}

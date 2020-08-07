@@ -1,0 +1,1 @@
+export let baseUrl ="http://192.168.18.161:8019"
